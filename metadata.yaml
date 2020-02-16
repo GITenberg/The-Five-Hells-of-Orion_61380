@@ -1,0 +1,28 @@
+_repo: The-Five-Hells-of-Orion_61380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederik George, Jr.
+    - Pohl, Frederick
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+description: ''
+gutenberg_issued: '2020-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Five Hells of Orion
+url: http://www.gutenberg.org/ebooks/61380
